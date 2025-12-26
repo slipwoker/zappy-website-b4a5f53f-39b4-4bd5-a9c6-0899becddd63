@@ -1,0 +1,61 @@
+# נוסטל-גול — Generative Engine Optimization Map
+
+> A ספורט וקהילה business.
+
+---
+
+## Pages
+
+### בית
+https://-b4a5f53f.zappy5.app
+גלו את הליגה המובילה לכדורגל ותיקים בצפון. מידע מרכזי, חדשות ותוכן מרתק לשחקנים ותיקים ואוהדים מכל המגזרים.
+
+### הליגה
+https://-b4a5f53f.zappy5.app/league
+הכירו את ליגת הותיקים בכדורגל-צפון - קבוצות, שחקנים, לוחות משחקים וכל המידע שאתם צריכים על הליגה המאחדת ביותר בישראל.
+
+### חדשות
+https://-b4a5f53f.zappy5.app/news
+עדכונים אחרונים, סיפורים מרגשים ותוצאות משחקים מליגת כדורגל ותיקים בישראל. הישארו מעודכנים עם נוסטל-גול.
+
+### אודות
+https://-b4a5f53f.zappy5.app/about
+גלו את הסיפור מאחורי נוסטל-גול - הפלטפורמה המובילה לכדורגל ותיקים בישראל. המשימה, הערכים והחזון שלנו.
+
+### צור קשר
+https://-b4a5f53f.zappy5.app/contact
+יש לכם שאלות על ליגת כדורגל ותיקים בישראל? רוצים להצטרף או לקבל מידע נוסף? צרו איתנו קשר - נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b4a5f53f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b4a5f53f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b4a5f53f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נוסטל-גול
+נוסטל-גול is a business in the ספורט וקהילה industry.
+
+## Target Audience
+שחקנים ותיקים, אוהדים ומעוניינים מהמגזרים היהודי, הערבי והדרוזי
+
+## Industry
+ספורט וקהילה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b4a5f53f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b4a5f53f.zappy5.app/robots.txt
